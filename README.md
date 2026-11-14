@@ -14,14 +14,26 @@
 JavaScript | SQL Server | PHP | Python  
 </p>
 
+<h2 align="center">Sobre mim</h2>
+
+<div align=center>
+  <p>
+    Sou estudante de Sistemas de Informação e tenho
+    formação técnica em Informática para Internet. Tenho interesse no desenvolvimento Back-End,
+    criação de sistemas, modelagem de dados e
+    soluções tecnológicas. 
+    Busco aprimorar continuamente meus conhecimentos
+    em programação e banco de dados, desenvolvendo
+    projetos práticos e explorando novas tecnologias.
+  </p>
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edw0w&theme=apprentice&animation=stagger">
+</div>
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edw0w&theme=apprentice&animation=stagger)
 
 
 
 
-=======
-## Ola Ednilson
->>>>>>> 694cd3d9280d4b12d1f2d5db4785cb255ff6261f
