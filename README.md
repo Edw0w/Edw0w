@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&section=header&reversal=false&textBg=false&fontColor=EDW0W&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60">
 
 
@@ -21,3 +22,6 @@ JavaScript | SQL Server | PHP | Python
 
 
 
+=======
+## Ola Ednilson
+>>>>>>> 694cd3d9280d4b12d1f2d5db4785cb255ff6261f
