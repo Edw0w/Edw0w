@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&section=header&reversal=false&textBg=false&fontColor=EDW0W&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60">
+<img src="./assets/header-perfil.png">
 
-
-<!--# 🧑‍💻 Ednilson Vargas!-->
 
 <h1 align="center">Ednilson Vargas(Edw0w) 👋</h1>
 
@@ -28,8 +25,23 @@ JavaScript | SQL Server | PHP | Python
   </p>
 </div>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edw0w&theme=apprentice&animation=stagger">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edw0w&theme=apprentice&animation=stagger" width="100%">
 </div>
+
+<table align="center" style="width: 100%">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Edw0w&theme=apprentice&animation=stagger" width="100%">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Edw0w&theme=apprentice&animation=stagger" width="100%">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Edw0w&theme=apprentice&animation=stagger" width="100%">
+    </td>
+  </tr>
+</table>
+
 
 
 
