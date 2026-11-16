@@ -40,7 +40,7 @@
         src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
         width="20"
         height="20"
-        alt="LinkedIn"
+        alt="LinkedIn" align="top"
       />
     </a>
   </h3>
