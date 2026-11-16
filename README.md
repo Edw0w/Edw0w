@@ -55,7 +55,7 @@
 ###
 
 <div data-importer="stats" align="center">
-    <div align="center">
+    <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
       <p>
         <img src="https://github-stats-extended.vercel.app/api?username=Edw0W&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=apprentice&locale=pt-br&hide_border=false" height="150" alt="GitHub Stats"/>
         <p><p>
