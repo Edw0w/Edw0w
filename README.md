@@ -55,10 +55,13 @@
 ###
 
 <div data-importer="stats" align="center">
-  <div align="center">
-    <img src="https://github-stats-extended.vercel.app/api?username=Edw0W&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=apprentice&locale=pt-br&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Edw0W&locale=pt-br&mode=daily&theme=apprentice&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  </div>
+  <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+
+  <img src="https://github-stats-extended.vercel.app/api?username=Edw0W&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=apprentice&locale=pt-br&hide_border=false" height="150" alt="GitHub Stats" />
+
+  <img src="https://streak-stats.demolab.com?user=Edw0W&locale=pt-br&mode=daily&theme=apprentice&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Graph" />
+
+</div>
 
   <br><br>
   <img src="https://raw.githubusercontent.com/Edw0W/Edw0W/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=false&order=2" height="150" alt="languages graph"  />
