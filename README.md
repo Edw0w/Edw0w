@@ -38,8 +38,8 @@
     <a href="SEU_LINKEDIN" target="_blank">
       <img
         src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-        width="25"
-        height="25"
+        width="20"
+        height="20"
         alt="LinkedIn"
       />
     </a>
@@ -65,7 +65,8 @@
 
   <img src="https://raw.githubusercontent.com/Edw0W/Edw0W/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=false&order=2" height="150" alt="languages graph"  />
 
-  <br>
+  <br><br>
+
   <img src="https://raw.githubusercontent.com/Edw0W/Edw0W/activity-graph-output/activity-graph.svg?radius=16&theme=one-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
