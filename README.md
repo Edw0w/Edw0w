@@ -44,7 +44,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Edw0W/Edw0W/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=Edw0W&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&theme=apprentice&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=Edw0W&locale=pt-br&mode=daily&theme=apprentice&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/Edw0W/Edw0W/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/Edw0W/Edw0W/activity-graph-output/activity-graph.svg?radius=16&theme=one-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
