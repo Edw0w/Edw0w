@@ -13,44 +13,19 @@
 ###
 
 
-
-<h2 align="center">📊 Estatísticas do GitHub</h2>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img
-        src="https://raw.githubusercontent.com/Edw0W/Edw0W/stats-output/stats.svg"
-        height="180"
-        alt="Estatísticas do GitHub"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://streak-stats.demolab.com?user=Edw0W&locale=pt-br&mode=daily&theme=apprentice&hide_border=false&border_radius=5"
-        height="180"
-        alt="Sequência de contribuições"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img
-        src="https://raw.githubusercontent.com/Edw0W/Edw0W/languages-output/languages.svg"
-        height="180"
-        alt="Linguagens de programação"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://raw.githubusercontent.com/Edw0W/Edw0W/activity-graph-output/activity-graph.svg"
-        height="180"
-        alt="Gráfico de atividades"
-      />
-    </td>
-  </tr>
-</table>
-
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
 ###
 
@@ -70,47 +45,3 @@
 </div>
 
 ###
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
