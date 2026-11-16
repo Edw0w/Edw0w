@@ -1,0 +1,14 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="44" viewBox="0 0 240 44">
+
+  <rect x="1" y="1" width="238" height="42" rx="21" fill="#353535"></rect>
+
+  <text x="19" y="27" fill="#E5D77A" font-size="14" font-weight="bold" font-family="monospace">
+    &lt;/&gt;
+  </text>
+
+  <text x="44" y="27" fill="#FFFFFF" font-size="14" font-weight="600" font-family="Arial, sans-serif">
+    Desenvolvedor Back-End
+  </text>
+
+</svg>
