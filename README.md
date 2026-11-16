@@ -7,7 +7,7 @@
 <h1 data-importer="text" align="center">Ednilson Vargas(Edw0w)👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Desenvolvedor-Back--End-E34C26?style=for-the-badge" />
+  <img src="assets/badge-backend.svg" width="200" height="34" />
 </p>
 
 ###
@@ -34,14 +34,14 @@
 
 <div align="center">
   <h3>
-    Sobre mim
-    <a href="SEU_LINKEDIN" target="_blank">
-      <img
-        src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-        width="20"
-        height="20"
-        alt="LinkedIn" align="top"
-      />
+    <a href="https://www.linkedin.com/in/ednilson-andrew/" target="_blank" style="text-decoration:none; color:white">
+      Sobre mim
+        <img
+          src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+          width="20"
+          height="20"
+          alt="LinkedIn" align="top"
+        />
     </a>
   </h3>
 </div>

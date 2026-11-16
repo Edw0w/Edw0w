@@ -1,0 +1,31 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="64" viewBox="0 0 390 64">
+
+  <defs>
+    <clipPath id="badge">
+      <rect x="2" y="4" width="386" height="56" rx="12"></rect>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#badge)">
+    <rect x="2" y="4" width="386" height="56" fill="#30343B"></rect>
+    <rect x="2" y="4" width="242" height="56" fill="#363A40"></rect>
+    <rect x="244" y="4" width="144" height="56" fill="#E34C26"></rect>
+  </g>
+
+  <!-- Ícone de código -->
+  <text x="23" y="39" fill="#FFFFFF" font-size="21" font-weight="bold" font-family="monospace">
+    &lt;/&gt;
+  </text>
+
+  <!-- Identificação -->
+  <text x="76" y="38" fill="#FFFFFF" font-size="13" font-weight="600" letter-spacing="1.1" font-family="Arial">
+    DESENVOLVEDOR
+  </text>
+
+  <!-- Especialidade -->
+  <text x="316" y="39" fill="#FFFFFF" font-size="15" font-weight="700" letter-spacing="1" text-anchor="middle" font-family="Arial">
+    BACK-END
+  </text>
+
+</svg>
