@@ -1,5 +1,5 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=30&stroke=-&strokeWidth=0&descSize=10&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox_light"  />
 </div>
 
 ###
@@ -11,7 +11,6 @@
 </p>
 
 ###
-
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -29,7 +28,14 @@
 
 ###
 
-<h3 data-importer="text" align="center">Sobre mim</h3>
+
+
+###
+
+<div data-importer="socials" align="center">
+  <h3 data-importer="text" align="center">Sobre mim</h3>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</div>
 
 ###
 
