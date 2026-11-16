@@ -38,8 +38,8 @@
     <a href="SEU_LINKEDIN" target="_blank">
       <img
         src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-        width="22"
-        height="22"
+        width="25"
+        height="25"
         alt="LinkedIn"
       />
     </a>
@@ -55,14 +55,11 @@
 ###
 
 <div data-importer="stats" align="center">
-    <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-      <p>
-        <img src="https://github-stats-extended.vercel.app/api?username=Edw0W&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=apprentice&locale=pt-br&hide_border=false" height="150" alt="GitHub Stats"/>
-        <div></div>
-        <img src="https://streak-stats.demolab.com?user=Edw0W&locale=pt-br&mode=daily&theme=apprentice&hide_border=false&border_radius=5&order=3" height="140" alt="Streak Graph" />
-      </p>
+    <div align="center">
+      <img src="https://github-stats-extended.vercel.app/api?username=Edw0W&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=apprentice&locale=pt-br&hide_border=false" height="150" alt="GitHub Stats" />
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://streak-stats.demolab.com?user=Edw0W&locale=pt-br&mode=daily&theme=apprentice&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Graph" />
     </div>
-
   <br><br>
 
 
